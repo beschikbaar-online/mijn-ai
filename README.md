@@ -1,0 +1,2 @@
+# mijn-ai
+artificiële intelligentie
